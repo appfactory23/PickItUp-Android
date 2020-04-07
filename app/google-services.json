@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "520649730611",
+    "firebase_url": "https://project-grocers.firebaseio.com",
+    "project_id": "project-grocers",
+    "storage_bucket": "project-grocers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520649730611:android:0d7131d36e1e7a9815d146",
+        "android_client_info": {
+          "package_name": "com.AppFactory.pickitup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520649730611-e18aberf3npnv4q4qr9ebq5dj1nla6rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzzG-FyxE6uv2fEswuUQQs_J7flXhWZVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520649730611-e18aberf3npnv4q4qr9ebq5dj1nla6rn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
